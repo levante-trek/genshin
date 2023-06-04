@@ -1,0 +1,144 @@
+
+{ "characters": [
+    {
+      "id": 0,
+      "name": "Jean",
+      "avatar": "https://webstatic.hoyoverse.com/upload/op-public/2023/04/27/c19b1f75f760f7b9647ec40f098d9373_5510942334259635060.png",
+      "description": "Jean, la Gran Maestra de los Caballeros de Favonius, siempre se ha dedicado religiosamente a sus tareas dentro de la orden y al mantenimiento de la paz en Mondstadt. A pesar de no tener grandes talentos, su gran diligencia la han convertido en uno de los miembros con más influencia. Cuando Stormterror amenaza la ciudad, toma medidas rápidamente y protege a Mondstadt con todas sus fuerzas.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/b51565c6f1298e534e90b6e63332e9c1_258308790313752396.png"
+    },
+    {
+      "id": 1,
+      "name": "Amber",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718394783559.png",
+      "description": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt. Amber, que ha dominado el arte de planear como ninguna otra, ha ganado la Competición de Vuelo de Mondstadt tres años consecutivos. Es la nueva estrella de Ordo Favonius, lista para cualquier nueva aventura.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/6f0ef40157e95b0d59455c12f4d3f270_6162872737474959670.png"
+    },
+    {
+      "id": 2,
+      "name": "Lisa",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718402796260.png",
+      "description": "Lisa es una bruja muy inteligente con una gran afición por la siesta. Ella es la bibliotecaria de la Orden, siempre encuentra en los libros la mejor solución a los problemas. Aunque parezca perezosa, no teme a nada y mantiene todo bajo control.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/43922f5162840c215638affedad0459a_3591787358444630001.png"
+    },
+    {
+      "id": 3,
+      "name": "Kaeya",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718385915548.png",
+      "description": "Kaeya es la fiel mano derecha de Jean en Ordo Favonius.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/cbce61ef1ee5586c4e77b2070348685f_7837849616579191191.png"
+    },
+    {
+      "id": 4,
+      "name": "Bárbara",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718391133103.png",
+      "description": "Diaconisa del Iglesia de Favonius, también es un gran icono para la gente de Mondstadt.\nPara las gentes de Mondstadt, que están acostumbradas a la figura tradicional del bardo, el concepto de \"Idol\" es algo muy nuevo. Aunque sea una nueva moda, todo el mundo ama a Bárbara.\nEste es el espíritu libre de la Capital de la Libertad: Todo el mundo adora a Bárbara, y ella devuelve el amor recibido con muchísima gratitud.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/6c009f0631eb71e697c2da76b608a51e_4088364409515740446.png"
+    },
+    {
+      "id": 5,
+      "name": "Diluc",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718401264822.png",
+      "description": "Como el hombre más rico de Mondstadt, Diluc siempre muestra su lado más exquisito.\nSin embargo, su verdadera naturaleza es la de un guerrero con una gran determinación. Protege a Mondstadt con todas sus fuerzas en todo momento.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/f5ae62eff2cf426e98626c882dd0cf0d_2918846313394852426.png"
+    },
+    {
+      "id": 6,
+      "name": "Razor",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718404021287.png",
+      "description": "En Mondstadt, algunos dicen que es un huérfano criado por lobos. Otros dicen que es un espíritu de lobo encarnado en humano... \nCon sus garras afiladas y veloz como el viento, Razor vive en armonía con los lobos y la naturaleza que le rodea. A día de hoy, puede ser a menudo avistado cazando en el bosque, junto a una gran manada de lobos.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/a1594317bbd0cefeb7da501f9879375b_7150875125261413798.png"
+    },
+    {
+      "id": 7,
+      "name": "Venti",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718405863873.png",
+      "description": "Un bardo misterioso al que le gusta recitar tanto viejos poemas como nuevas canciones de moda. Le encantan las manzanas y los ambientes animados, odia el queso y las cosas pegajosas. Su poder suele manifestarse en forma de plumas y viento, seguramente debido a su obsesión por los objetos ligeros y voladores.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/965e940e6caafe8fbd4bf0e17653000b_1026285463697620805.png"
+    },
+    {
+      "id": 8,
+      "name": "Klee",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200317/2020031718411487104.png",
+      "description": "La presencia de la caballera chispeante de los Caballeros de Favonius siempre va acompañada de destellos y explosiones.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/16cff1c00f651f98427fc3fbab7fc855_6547645267228865098.png"
+    },
+    {
+      "id": 9,
+      "name": "Bennett",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220221079270.png",
+      "description": "Los pocos jóvenes aventureros del Gremio de Aventureros de Mondstadt han sufrido desgracias insospechadas al salir de aventura con Bennett.",
+      "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200312/2020031220221567075.png"
+    },
+    {
+      "id": 10,
+      "name": "Noelle",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200315/2020031518001330703.png",
+      "description": "Al igual que otros jóvenes de Mondstadt, Noelle sueña en convertirse en una Caballera Honorable de Favonius.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/c8a5da498d29faa1c8f2e2bfb60efbd5_5929774179362721334.png"
+    },
+    {
+      "id": 11,
+      "name": "Fischl",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200330/2020033022441676885.png",
+      "description": "Una chica misteriosa que se hace llamar \"la princesa del juicio\". Siempre camina junto con un cuervo oscuro, llamado Oz.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/96297a7f2679bf0dce4fb9d11120b882_1918570544807396590.png"
+    },
+    {
+      "id": 12,
+      "name": "Sacarosa",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200723/2020072319343335884.png",
+      "description": "Una alquimista con una insaciable curiosidad por el mundo y todo lo que hay en él. Adscrita a los Caballeros de Favonius como asistenta de Albedo, su área de interés es la \"bio-alquimia\".",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/448bc697f852e5726717fa2be839eedc_8019833631150486624.png"
+    },
+    {
+      "id": 13,
+      "name": "Mona",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20200903/2020090319182994074.png",
+      "description": "Una misteriosa joven astróloga que se autoproclama \"Astróloga Mona Megistus\" . Erudita y orgullosa, está convencida de que posee las habilidades necesarias para estar a la altura de su propio título.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/9e4203089ad086d328973adf3f6e8c7b_6592739419416667886.png"
+    },
+    {
+      "id": 14,
+      "name": "Diona",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20201106/2020110619351969942.png",
+      "description": "La popular cantinera de la Taberna Cola de Gato, una nueva estrella en la industria del vino en Mondstadt y la mayor opositora del statu quo.\nTodos los licores que pasan por las manos de esta joven de Aguaclara se convierten en las bebidas más exquisitas.\nPara ella, que siente un odio extremo por el alcohol, ¿será una bendición o una maldición?",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/fb11c57bf9789d760d70d35ce634ebe1_3433125345257580356.png"
+    },
+    {
+      "id": 15,
+      "name": "Albedo",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20201216/2020121611535550102.png",
+      "description": "Un alquimista de Mondstadt al servicio de los Caballeros de Favonius. \"Genio\", \"Príncipe de la Roca Caliza\" o \"Capitán del equipo de investigación\"... No le importan los títulos ni la fama, solo se preocupa por sus investigaciones.\nHacer fortuna y conexiones no es un objetivo suyo. Lo que él anhela es el conocimiento supremo de todo lo oculto en las profundidades de la mente humana, desde el pasado hasta el presente.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/f95b03a7d7370aa4f5de3ac9a5f161bc_4713398133029547327.png"
+    },
+    {
+      "id": 16,
+      "name": "Rosaria",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210325/2021032516232326470.png",
+      "description": "Rosaria es una monja de la Iglesia de Favonius de Mondstadt. Aparte de por su ropa, nadie diría que pertenece al clero. Su frialdad hacia todo la hace extremadamente incisiva y siempre actúa en solitario.\nSus movimientos son impredecibles y suele desaparecer sin previo aviso. Parece que actúa con algún tipo de propósito, pero nadie sabe cuál es.",
+      "image": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210325/2021032516232945348.png"
+    },
+    {
+      "id": 17,
+      "name": "Eula",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210510/2021051011513757139.png",
+      "description": "Eula es la última descendiente de la antigua aristocracia opresora de Mondstadt. Sorprendentemente, decidió rebelarse contra el pasado de su linaje y rompió los lazos con su familia. Puesto que nació en un clan de aristócratas despiadados, ha necesitado un enfoque único del mundo para poder superar los imponentes muros de los prejuicios sociales.\nEula también es conocida como la \"Caballera de la Marea\". Tiene como misión perseguir a los enemigos de Mondstadt para poder llevar a cabo su singular \"venganza\" y velar por la paz de la ciudad de la libertad.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/4c4b8babc68ffedce9bd5766b60e1ae5_492070382790474536.png"
+    },
+    {
+      "id": 18,
+      "name": "Aloy",
+      "avatar": "https://webstatic.hoyoverse.com/upload/uploadstatic/contentweb/20210824/2021082413470389911.png",
+      "description": "Una cazadora tenaz proveniente de la tribu Nora. Con su arco en mano, siempre está preparada para proteger a los inocentes.",
+      "image": "https://webstatic.hoyoverse.com/upload/contentweb/2022/07/19/9344fdabebf5e14d8ecaf34253d838c0_8305410943470885731.png"
+    },
+    {
+      "id": 19,
+      "name": "Mika",
+      "avatar": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/13/d1bd63a9d2f41a7bfa927811e219493d_5139997364906620073.png",
+      "description": "El joven caballero que está al frente del equipo de expedición sondeando el terreno es una persona tranquila y discreta. Asume con responsabilidad cada tarea que se le asigna y, además, sabe preparar unas deliciosas raciones militares.",
+      "image": "https://webstatic.hoyoverse.com/upload/op-public/2023/02/13/df329c62acad08953832134777166e57_8412092087979447029.png"
+    }
+]
+}
